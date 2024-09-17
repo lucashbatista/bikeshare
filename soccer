@@ -1,1 +1,2 @@
+soccer <- read_csv('[filename]')
 

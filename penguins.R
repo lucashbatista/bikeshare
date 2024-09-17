@@ -1,4 +1,5 @@
 # loading penguins dataset that is already saved in R studio.
-install.packages("[penguinsname")
-library(penguins)
+install.packages("palmerpenguins")
+penguins -> library(palmerpenguins)
 
+head(penguins)

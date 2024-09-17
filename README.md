@@ -1,2 +1,4 @@
 ## my portfolio
-Portfolio to show my experience with R programming language for data analysis.
+📚
+My portfolio is divided by the programming languages R and Python.
+I will add my knowledge on SQL, Tableau, and Excel.

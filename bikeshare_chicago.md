@@ -2,6 +2,8 @@
 
 ### How the city of Chicago can get more people to become members.
 
+Code: https://github.com/lucashbatista/portfolio/blob/main/bikeshare_chicago
+
  Questions to be asked:
 1. How do annual members and casual riders use cyclistic bikes differently?
 2. Why would casual riders buy cyclistic annual membership?

@@ -1,1 +1,5 @@
+### Bike share in the city of Chicago
 
+### How the city of Chicago can get more people to become members.
+
+ Questions to be asked 

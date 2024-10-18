@@ -6,8 +6,11 @@ Code: https://github.com/lucashbatista/portfolio/blob/main/bikeshare_chicago
 
  Questions to be asked:
 1. How do annual members and casual riders use cyclistic bikes differently?
-2. Why would casual riders buy cyclistic annual membership?
-3. How can Cyclistic use digital media to influence casual riders to become members?
+   Ther service is used more on Sundays summing the members and casual users. The members also use more the service on Sundays. On Sundays the total is half and half for the bike service in Chicago. The day where people use the service the least is on Wednesdays which is almost half of the busiest day that is Sundays. The ratio between members and casual riders on weekdays are very big, that might be for the fact that weekends the city of Chicago receive a lot of turists that are non member of the bike service of the city of Chicago.
+3. Why would casual riders buy cyclistic annual membership?
+[need more information to try to asnwer this question]
+
+5. How can Cyclistic use digital media to influence casual riders to become members?
 
 Report for the following deliverables:
 

@@ -87,3 +87,11 @@ Download data and store it appropriately.
 Identify how it’s organized. 
 Sort and filter the data. 
 Determine the credibility of the data
+
+
+
+Extra questions:
+
+Why do riders use the service more on Tuesdays than the other weekdays?
+
+

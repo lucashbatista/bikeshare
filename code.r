@@ -91,6 +91,8 @@ alldf["ended_hour"] <- format(as.Date(alldf$ended_at), "%H") ## For hour
 alldf["ended_minute"] <- format(as.Date(alldf$ended_at), "%M") ## For minute
 alldf["ended_seconds"] <- format(as.Date(alldf$ended_at), "%S") ## For seconds
 
+#*********** CONTINUE FROM HERE. ************
+
 
 #GROUPING BY HOURS.
 newalldf <- group_by(alldf$ended_hour)

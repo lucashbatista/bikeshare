@@ -4,7 +4,7 @@ ASK
 
 The annual members start their rides the most very differently from the casual members. Stations are different and the volume is higher for the annual members. In the graph below show the difference between annual members and casual riders in the city of Chicago.
 ```
-code <- code
+#enter code that was written to create the images below.
 ```
 
 <img width="563" alt="annualmembers_start_volume" src="https://github.com/user-attachments/assets/1ba7f60e-50a4-4200-8285-e0a8e0840105">

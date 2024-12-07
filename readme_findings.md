@@ -15,12 +15,8 @@ df_start %>% head(10) %>%
     subtitle = "Chicago IL",
     x="Name of the stations",
     y="Number of rides",
-    size=12,
-    
-    
-    
+    size=12,    
   ) + 
-  
   theme(
     axis.text.x = element_text(face = "bold", color = "black", 
                            size = 10, angle = 45, hjust=1,vjust = 0.9),
@@ -28,7 +24,6 @@ df_start %>% head(10) %>%
     title =element_text(size=14, face='bold'),
     )
 #axis.text.x = element_text(angle=45)),
-
 # 10 Stations with more rides as start points.", FOR CASUAL
 df_start <- alldf %>% count(start_station_name, member_casual, sort = TRUE, name = "count") %>% 
   filter(member_casual == "casual")
@@ -40,12 +35,8 @@ df_start %>% head(10) %>%
     subtitle = "Chicago IL",
     x="Name of the stations",
     y="Number of rides",
-    size=12,
-    
-    
-    
+    size=12,    
   ) + 
-  
   theme(
     axis.text.x = element_text(face = "bold", color = "black", 
                            size = 10, angle = 45, hjust=1,vjust = 0.9),

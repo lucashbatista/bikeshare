@@ -56,3 +56,12 @@ Clark St & Elm St is the station with highest volume either for annual members a
 The time that annual members use the service the most is between 12pm-6pm.
 During the time analysed at 4pm they had about 6k annual members using the service across the city of Chicago.
 Even though the volume of rides for casual members is a lot less, they had the highest number of people using the service at 3pm during the time analysed in this case.
+
+
+
+2. Why would casual riders buy Cyclistic annual memberships?
+
+FIND OUT THE USERS THAT USE THE SERVICE AT LEAST THREE TIMES A WEEK.
+WHAT IS THE MEMBERSHIP PRICE AND THE INDIVIDUAL RIDE PRICE?
+
+

@@ -6,7 +6,9 @@ The annual members start their rides the most very differently from the casual m
 
 
 
-<img width="563" alt="casual_start_volume" src="https://github.com/user-attachments/assets/4fb1e090-0dc3-42de-ae16-6c429cc2a956">
+<img width="563" alt="annualmembers_start_volume" src="https://github.com/user-attachments/assets/1ba7f60e-50a4-4200-8285-e0a8e0840105">
+
+<img width="563" alt="casual_start_volume" src="https://github.com/user-attachments/assets/fdaf097d-708a-4c0b-840e-01ff11d677bc">
 
 Clark St & Elm St is the station with highest volume either for annual members and casual riders. It has about 600 uses per [TIME], while casual riders have about 250 per [TIME]. {time will change when I add more data to this analysis.}
 

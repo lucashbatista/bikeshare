@@ -61,8 +61,12 @@ Even though the volume of rides for casual members is a lot less, they had the h
 
 2. Why would casual riders buy Cyclistic annual memberships?
 
-FIND OUT THE USERS THAT USE THE SERVICE AT LEAST THREE TIMES A WEEK.
-WHAT IS THE MEMBERSHIP PRICE AND THE INDIVIDUAL RIDE PRICE? 
+Because some of those people are using the service to go to work and spending more than 15 minutes on the bike.
+Advertise to the riders that start at the stations from 7-9am and from 4-7pm.
+
+[FIND OUT THE TIME OF THE TRIP FOR CASUAL MEMBERS.]
+
+
 
 A single ride is $3 and an Explorer Day Pass is $15 (prices are subject to change). Please refer to Divvy's website for more information.
 $16.58 membership

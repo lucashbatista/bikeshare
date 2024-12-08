@@ -77,8 +77,11 @@ $1 + $0.18m
 The benefits of buying the bikeshare Chicago service would be beneficial for the following scenarios.
 
 If a rider rides 18 days a year for less than 45 minutes per day.
+
 If a rider rides 36 days a year for less than 23 minutes per day.
+
 If a rider rides 54 days a year for less than 12 minutes per day.
+
 If a rider rides 72 days a year for less than 6 minutes per day.
 
 

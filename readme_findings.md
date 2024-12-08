@@ -61,7 +61,8 @@ Even though the volume of rides for casual members is a lot less, they had the h
 
 2. Why would casual riders buy Cyclistic annual memberships?
 
-Because some of those people are using the service to go to work and spending more than 15 minutes on the bike.
+Riders would take more advantage of the annual membership when minute riders ride more than 15min in a month.
+Because some of those people are using the bikeshare service to go to work and spending more than 15 minutes on the bike.
 Advertise to the riders that start at the stations from 7-9am and from 4-7pm.
 
 [FIND OUT THE TIME OF THE TRIP FOR CASUAL MEMBERS.]
@@ -71,6 +72,18 @@ Advertise to the riders that start at the stations from 7-9am and from 4-7pm.
 A single ride is $3 and an Explorer Day Pass is $15 (prices are subject to change). Please refer to Divvy's website for more information.
 $16.58 membership
 $1 + $0.18m 
+
+
+The benefits of buying the bikeshare Chicago service would be beneficial for the following scenarios.
+
+If a rider rides 18 days a year for less than 45 minutes per day.
+If a rider rides 36 days a year for less than 23 minutes per day.
+If a rider rides 54 days a year for less than 12 minutes per day.
+If a rider rides 72 days a year for less than 6 minutes per day.
+
+
+
+
 
 Look for Casual riders that use the service frequently. People that spend around $16 per month.
 

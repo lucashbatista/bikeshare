@@ -94,4 +94,4 @@ When someone is using the bikeservice equal or less from the scenario above, buy
 Look for Casual riders that use the service frequently. People that spend around $16 per month.
 
 
-
+3. How can Cyclistic use digital media to influence casual riders to become members?

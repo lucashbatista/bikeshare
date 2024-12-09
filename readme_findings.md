@@ -95,3 +95,8 @@ Look for Casual riders that use the service frequently. People that spend around
 
 
 3. How can Cyclistic use digital media to influence casual riders to become members?
+
+Create campaigns for casual riders that had used the Cyclist service and spent more than $15/month to become an annual member.
+Cyclists that used the Chicago service just a few times are not Chicago residents, so those people are not a good target for Chicago bikeride.
+
+

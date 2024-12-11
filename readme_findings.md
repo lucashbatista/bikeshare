@@ -102,3 +102,7 @@ Cyclists that used the Chicago service just a few times are not Chicago resident
 Produce a report for the following statement.
 
 1. A clear statement of the business task.
+
+The business task is to grow the number of annual members, having the casual riders become one of them.
+
+2. SECOND.

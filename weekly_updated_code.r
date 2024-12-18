@@ -110,7 +110,7 @@ df1$started_weekday <- weekdays(as.Date(df1$started_at))
 df1$ended_weekday <- weekdays(as.Date(df1$ended_at))
 ```
 
-
+df1 has the correct data format that I was looking for.
 
 
 The table df1 now has ride_time. 
@@ -119,6 +119,21 @@ Use the filter to exclude the rides that lasted more than 2 hours because those 
 Start counting and create graphs for this case study.
 
 
-```{r Couting }
+```{r Couting rides per hour}
+df1 %>% count(started_hour, sort = FALSE,name="count") # COUNTING ALL USERS/RIDERS 
+df1 %>% count(ended_hour, sort = FALSE, name="count") # COUNTING ALL USERS/RIDERS 
+```
+
+```{r Couting rides per day}
+df1 %>% count(started_weekday, sort = FALSE,name="count") # COUNTING ALL USERS/RIDERS 
+df1 %>% count(ended_weekday, sort = FALSE, name="count") # COUNTING ALL USERS/RIDERS 
+```
+
+```{r Couting rides per station}
+df1 %>% count(start_station_name, sort = TRUE,name="count") # COUNTING ALL USERS/RIDERS 
+df1 %>% count(end_station_name, sort = TRUE, name="count") # COUNTING ALL USERS/RIDERS 
+```
+
+```{r Counting rides per Chicago neighboorhood}
 
 ```

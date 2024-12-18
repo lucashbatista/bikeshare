@@ -137,3 +137,5 @@ df1 %>% count(end_station_name, sort = TRUE, name="count") # COUNTING ALL USERS/
 ```{r Counting rides per Chicago neighboorhood}
 
 ```
+
+For the challenge above. Do a research to learn how to zone the ride by zipcode in the city of Chicago.

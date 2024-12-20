@@ -139,3 +139,29 @@ df1 %>% count(end_station_name, sort = TRUE, name="count") # COUNTING ALL USERS/
 ```
 
 For the challenge above. Do a research to learn how to zone the ride by zipcode in the city of Chicago.
+
+
+```{r Graph started and ended stations}
+
+df1 %>% select(start_station_name,end_station_name) %>% 
+  count(start_station_name,end_station_name, sort=TRUE, name="count") %>% 
+  head(10) %>%  
+  ggplot() + aes(x= reorder(start_station_name, -count),y=count,fill=count, sort.val = "desc") + 
+  geom_bar(stat =  "identity") +
+  labs(
+    title = "Ten Busiest start point Stations",
+    subtitle = "The rides start and end at the same station",
+    x = "Station",
+    y = "Count",
+    size=12,
+  
+  ) +
+    theme(
+    axis.text.x = element_text(face = "bold", color = "black", 
+                           size = 10, angle = 45, hjust=1,vjust = 0.9),
+    axis.title = element_text(hjust=1, vjust=1.5, face = "bold", size=9),
+    title =element_text(size=14, face='bold'),
+    plot.subtitle = element_text(size=8,face = "italic"),
+    )
+  
+```

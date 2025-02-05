@@ -66,9 +66,6 @@ Riders would take more advantage of the annual membership when minute riders rid
 Because some of those people are using the bikeshare service to go to work and spending more than 15 minutes on the bike.
 Advertise to the riders that start at the stations from 7-9am and from 4-7pm.
 
-[FIND OUT THE TIME OF THE TRIP FOR CASUAL MEMBERS.]
-
-
 
 A single ride is $3 and an Explorer Day Pass is $15 (prices are subject to change). Please refer to Divvy's website for more information.
 $16.58 membership
@@ -98,6 +95,10 @@ Look for Casual riders that use the service frequently. People that spend around
 
 Create campaigns for casual riders that had used the Cyclist service and spent more than $15/month to become an annual member.
 Cyclists that used the Chicago service just a few times are not Chicago residents, so those people are not a good target for Chicago bikeride.
+
+The 50 stations where casual members use the most the service in chicago are the ones in the chart below.
+
+
 
 Produce a report for the following statement.
 

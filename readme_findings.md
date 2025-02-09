@@ -104,16 +104,20 @@ Produce a report for the following statement.
 
 1. A clear statement of the business task.
 
-The business task is to grow the number of annual members, having the casual riders become one of them.
+      The business task is to grow the number of annual members. Marketing campaign to make casual riders become annual members.(where do they ride?, when do they ride?) Social Media, memchandising around those stations. free months.
 
 2. A description of all the data sources used
+      Datasets were used from Lyft report since the Q1 of 2018.
 
-3. Documentation of any cleaning or manipulation of data
+4. Documentation of any cleaning or manipulation of data
+      Being recorded in the rstudio markdown. Project name: Bikeshare Chicago.
+       Link: https://posit.cloud/content/8875894
+   
 
-4. A summary of your analysis
+6. A summary of your analysis
 
-5. Supporting visualizations and key findings
+7. Supporting visualizations and key findings
 
-6. Your top three recommendations based on your analysis
+8. Your top three recommendations based on your analysis
 
 

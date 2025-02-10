@@ -116,8 +116,24 @@ Produce a report for the following statement.
 
 6. A summary of your analysis START DOING THIS SUMMARY 2/10/2025
 
-7. Supporting visualizations and key findings
+   Giving insights of the Chicago rideshare service. I will break it down in days, hour, and locations. Giving insights for all users, member, and casual riders. I am using the data from the month of April in 2020. Lockdown was just starting in the US due to the Covid pandemic.
 
-8. Your top three recommendations based on your analysis
+   Most of the bike riders thorugh the Lyft service are member of the rideshare service in the city of Chicago, IL. From the data analysis, it is seem that people start grabbing bikes to communte around Chicago around 6am local time, and after 9pm the service slows down.
+
+   Highest volumes per are on the stations:
+      Clark St & Elm St	850		
+      Dearborn St & Erie St	730		
+      Desplaines St & Kinzie St	720		
+      St. Clair St & Erie St	686		
+      Clark St & Armitage Ave 626
+
+ The marketing team should focus on publishing something from Monday - Wednesday focusing on the 100 busiest bike stations. We could come up with screen ads at the local with member sign-ups. Thursday - Sunday the non member volume increases because of the tourists that are in town vacationing. Make sure that ads on social media are being target to only people in the Chicago area.
+ 
+  
+   
+  
+8. Supporting visualizations and key findings
+
+9. Your top three recommendations based on your analysis
 
 

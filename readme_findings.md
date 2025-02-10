@@ -114,7 +114,7 @@ Produce a report for the following statement.
        Link: https://posit.cloud/content/8875894
    
 
-6. A summary of your analysis
+6. A summary of your analysis START DOING THIS SUMMARY 2/10/2025
 
 7. Supporting visualizations and key findings
 
